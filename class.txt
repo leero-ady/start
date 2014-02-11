@@ -1,1 +1,0 @@
-Python Java and C++ use classes and objects.
